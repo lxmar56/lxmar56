@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lxmar56
-- 👀 I’m interested in programming numerical computing
+- 👀 I’m interested in numerical computing
 - 🌱 I’m currently learning Julia
 
 <!---
